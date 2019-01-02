@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Chi siamo">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:layout_width="wrap_content"
+                android:icon="@drawable/ic_profilo"
+                android:title="Profilo" />
+
+        </menu>
+    </item>
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_prenotazione"
+            android:icon="@drawable/ic_prenotazione"
+            android:title="Prenota" />
+
+
+    </group>
+
+</menu>

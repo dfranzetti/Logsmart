@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "926452765137",
+    "firebase_url": "https://logsmart-27b05.firebaseio.com",
+    "project_id": "logsmart-27b05",
+    "storage_bucket": "logsmart-27b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926452765137:android:8adfc5c3f2c7439b",
+        "android_client_info": {
+          "package_name": "it.uninsubria.pdm.logsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926452765137-nfnbuntk4oinljgtlebt4foigcjj3sod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.uninsubria.pdm.logsmart",
+            "certificate_hash": "095a2fbda9ddcf9390e4e24344bc5b637e4ea396"
+          }
+        },
+        {
+          "client_id": "926452765137-b0vaggkndp371tvvc1vfhf4tok2cfubg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCs2aF0WIwLdCDaIFs5PWX8wat-WMfeQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926452765137-b0vaggkndp371tvvc1vfhf4tok2cfubg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
